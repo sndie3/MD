@@ -1,9 +1,5 @@
-# MD
-Masterclass Documentation
-
 # MASTERCLASS — User Flow Guide
-
-A walkthrough of every feature in the system, organized from the most basic entry points to advanced management tasks.
+Masterclass Documentation
 
 The system has two frontends:
 
